@@ -6,14 +6,12 @@ Python program to solve the challenge of Lê
 
 to run the program :
  python carre.py 
-
+...
 entrez le nombre de points du quadriallage: 10
-
 carre  285
-
 losange  540
-
 total  825
+...
 
 
 
