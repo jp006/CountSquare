@@ -6,13 +6,13 @@ un programme Python pour resoudre le probleme de la video Youtube suivante de LÃ
 
 Taper la commande :
  python carre.py 
-...
+   
 
-entrez le nombre de points du quadriallage: 10
-carre  285
-losange  540
-total  825
-...
+entrez le nombre de points du quadriallage: 10  
+carre  285  
+losange  540  
+total  825  
+   
 
 
 
